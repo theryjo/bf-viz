@@ -1,0 +1,7 @@
+[init]
+code_sample = 1
+tape_size = 32
+
+[options]
+tape_size = [8, 32, 512, 30000]
+tick_interval = [500, 125, 0]
